@@ -1,0 +1,31 @@
+{
+  "name": "Enawira",
+  "version": "1.0.0",
+  "description": "Real Time Chat With NodeJS, Socket.io and ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomhaShwangzaw/Enawira.git"
+  },
+  "keywords": [
+    "nodejs",
+    "socket.io",
+    "expressJS",
+    "RomhaShwangzaw",
+    "Enawira"
+  ],
+  "author": "Romha Shwangzaw",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RomhaShwangzaw/Enawira/issues"
+  },
+  "homepage": "https://github.com/RomhaShwangzaw/Enawira#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "socket.io": "^1.5.0"
+  }
+}
